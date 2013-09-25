@@ -1,0 +1,1 @@
+window.forge = {}; window.forge.config = {"modules": {"statusbar": {"version": "exampleversion"}, "inspector": {"version": "1.0"}}};

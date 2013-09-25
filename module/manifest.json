@@ -1,0 +1,6 @@
+{
+    "description": "Show and hide the status bar", 
+    "name": "statusbar", 
+    "platform_version": "v2.0.1", 
+    "version": "0.1"
+}

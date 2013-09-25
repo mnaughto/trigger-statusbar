@@ -1,0 +1,172 @@
+TForgeModule
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.o /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.o /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523B644D00000000000003B5
+t1379624013
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000523B645D000000000000019E
+t1379624029
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000523B645F0000000000057080
+t1379624031
+s356480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000523B64620000000000445830
+t1379624034
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000523B6466000000000088B570
+t1379624038
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000523B646B00000000001081B0
+t1379624043
+s1081776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000523B64710000000001DB1C90
+t1379624049
+s31136912
+
+N/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/ForgeCore
+c000000005242F2350000000000451484
+t1380119093
+s4527236
+
+N/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+c000000005242F2350000000000000159
+t1380119093
+s345
+
+N/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList
+c00000000524317920000000000000196
+t1380128658
+s406
+
+N/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.o
+t1380128660
+s43952
+
+N/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.o
+t1380128660
+s55420
+
+N/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
+t2
+s0
+
+N/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.m
+c00000000524315B00000000000000335
+t1380128176
+s821
+
+N/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.m
+c000000005242F2350000000000000218
+t1380119093
+s536
+
+N/var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.pch
+t1380128660
+s5907596
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies658f10124ff3b741^fa9b9c124ff3b741^---0#1#1#--18"Check dependencies36"53722B58-A4D3-466F-B864-0B7FDE3A6B12-
+
+CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.o /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401821460.516618
+e401821460.681452
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.o
+x/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.m
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.m194"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.o statusbar_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e9c84144ff3b741^e274ae144ff3b741^---0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.m0000000000000000^3516"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.o statusbar_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/.. -include /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.d --serialize-diagnostics /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.dia -c /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_API.m -o /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_API.o36"AF937173-83D2-4CA6-81F9-B01AFE5EE00D-
+b5DE97C1A-46DC-41AC-85A4-A13B0433535E
+
+CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.o /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401821460.517184
+e401821460.678582
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.o
+x/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.m
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.m214"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.o statusbar_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6fb784144ff3b741^f6f0ad144ff3b741^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.m0000000000000000^3576"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.o statusbar_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/.. -include /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.d --serialize-diagnostics /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.dia -c /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/statusbar_EventListener.m -o /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/statusbar_EventListener.o36"8AEE7DF1-BBA0-4A01-B40B-C9F9D2636DD7-
+b5DE97C1A-46DC-41AC-85A4-A13B0433535E
+
+CLibtool /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
+s401821460.690448
+e401821460.705186
+r1
+xLibtool
+x/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool build/Release-iphonesimulator/libForgeModule.a normal i38666"Libtool build/Release-iphonesimulator/libForgeModule.a normal i386910cb1144ff3b741^b08db4144ff3b741^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1102"Libtool build/Release-iphonesimulator/libForgeModule.a normal i386    cd /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -filelist /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -framework ForgeCore -o /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a36"027442D0-DD32-4270-9DE1-95BFEAD04BE5-
+b5DE97C1A-46DC-41AC-85A4-A13B0433535E
+
+CProcessPCH /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401821458.614080
+e401821460.507228
+r1
+xProcessPCH
+x/var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch309"ProcessPCH /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler14b49d124ff3b741^4dd981144ff3b741^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^3458"ProcessPCH /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule -F/Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.d -c /Users/macuser/forge-workspace/alphabrawl/modules/statusbar/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/nd/cbtmh14553qchdvgp9h7c8l00000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-aprzwstiepygxsaszkffrxlhyafn/ForgeModule-Prefix.pch.pch36"DB35FC3E-70A7-45F4-8AF8-27C919C7B709-
+b5DE97C1A-46DC-41AC-85A4-A13B0433535E
+
